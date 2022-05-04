@@ -1,13 +1,3 @@
-/*
- *
- * @author Shahab Rosenstrom
- *
- * http://www.Shahab.net
- * https://twitter.com/Shahab
- * http://www.devstate.net
- * Sources for this can be found at:
- * https://github.com/Shahab/ShahabNetCommonJS
- */
 
 (function (window){
 
